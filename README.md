@@ -1,8 +1,13 @@
-# Elízabeth Alzate
-## Jr. Software developer
+# Elízabeth Alzate Jr. Software developer
 ### Hi  👋
 
-I have worked with PHP
+My first approach with coding was with VB.NET WinForms when I was in 8th grade 😂😅 And it's been a long way since then. 
+I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, with frameworks such as Code Igniter and Laravel. 
+
+## 🌱 I’m currently learning:
+* React
+* NodeJS
+* Non relational databases like MongoDB
 
 <!--
 **Elizalzate/ElizAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
