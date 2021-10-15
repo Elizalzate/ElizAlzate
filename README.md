@@ -1,4 +1,5 @@
-# I'm  Elízabeth Alzate a Jr. Software developer
+# Elízabeth Alzate
+## Jr. Software developer
 ### Hi  👋
 
 <!--
