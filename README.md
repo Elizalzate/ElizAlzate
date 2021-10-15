@@ -2,6 +2,8 @@
 ## Jr. Software developer
 ### Hi  👋
 
+I have worked with PHP
+
 <!--
 **Elizalzate/ElizAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
