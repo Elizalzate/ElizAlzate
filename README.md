@@ -10,7 +10,7 @@ I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, 
 * Non relational databases like MongoDB
 
 ## 📫 How to reach me:
-https://www.linkedin.com/in/ealzate/ 
+https://www.linkedin.com/in/ealzate/  <br/>
 https://twitter.com/ealzatez
 
 <!--
