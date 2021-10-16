@@ -11,7 +11,8 @@ I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, 
 
 ## 📫 How to reach me:
 https://www.linkedin.com/in/ealzate/  <br/>
-https://twitter.com/ealzatez
+https://twitter.com/ealzatez <br/>
+
 
 <!--
 **Elizalzate/ElizAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
