@@ -4,6 +4,10 @@
 My first approach with coding was with VB.NET WinForms when I was in 8th grade 😂😅 And it's been a long way since then. 
 I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, with frameworks such as Code Igniter and Laravel. 
 
+## I already have some experience working with:
+* .NET Framework (WinForms, ASP.NET...)
+* Relational databases (SQL Server, MySQL, Access...)
+
 ## 🌱 I’m currently learning:
 * React
 * NodeJS
