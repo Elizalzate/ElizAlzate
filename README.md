@@ -17,6 +17,10 @@ I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, 
 https://www.linkedin.com/in/ealzate/  <br/>
 https://twitter.com/ealzatez <br/>
 
+## 🗣️ Kinda fluent in 2 languages: 
+* Spanish
+* English
+
 
 <!--
 **Elizalzate/ElizAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
