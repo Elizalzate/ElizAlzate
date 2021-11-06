@@ -12,6 +12,7 @@ I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, 
 * React
 * NodeJS
 * Non relational databases like MongoDB
+* .NET core 
 
 ## 📫 How to reach me:
 https://www.linkedin.com/in/ealzate/  <br/>
