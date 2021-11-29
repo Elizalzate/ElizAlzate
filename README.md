@@ -14,7 +14,7 @@ Currently I'm working with .NET again, but this time with .NET core 5 :)
 * React
 * NodeJS
 * Non relational databases like MongoDB
-* .NET core 
+* .NET core (5 & 6)
 
 ## 📫 How to reach me:
 https://www.linkedin.com/in/ealzate/  <br/>
