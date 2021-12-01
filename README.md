@@ -4,7 +4,7 @@
 My first approach with coding was with VB.NET WinForms when I was in 8th grade 😂😅 And it's been a long way since then. 
 I've had done some projects with C# ASP.NET, WinForms, etc. I've also used PHP, with frameworks such as Code Igniter and Laravel. 
 
-Currently I'm working with .NET again, but this time with .NET core 5 :)
+Currently I'm working with .NET again, but this time with .NET core 5 and 6:)
 
 ## 🌳 I already have some experience working with:
 * .NET Framework (WinForms, ASP.NET...)
