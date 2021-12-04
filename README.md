@@ -23,7 +23,7 @@ https://twitter.com/ealzatez <br/>
 ## 🗣️ Kinda fluent in 2 languages: 
 * Spanish 
 * English
-
+ 
 ## ⚡ Fun facts:
 * Until now (2021), all of my experience has been in projects involving health care from medical records to prescriptions 
 * Before going into this career path I wanted to be a doctor or a pilot. 
