@@ -23,6 +23,8 @@ https://twitter.com/ealzatez <br/>
 ## 🗣️ Kinda fluent in 2 languages: 
 * Spanish 
 * English
+
+Currently learning german
  
 ## ⚡ Fun facts:
 * Until now (2021), all of my experience has been in projects involving health care from medical records to prescriptions 
