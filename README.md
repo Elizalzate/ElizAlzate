@@ -27,7 +27,7 @@ https://twitter.com/ealzatez <br/>
 Currently learning german
  
 ## ⚡ Fun facts:
-* Until now (2021), all of my experience has been in projects involving health care from medical records to prescriptions 
+* Most of my experience has been in projects involving health care from medical records to prescriptions. 
 * Before going into this career path I wanted to be a doctor or a pilot. 
 * I love cats, if I had a bigger house I would adopt more.
 * When I was in school I loved joining a lot of extracurriculars 
