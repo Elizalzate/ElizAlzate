@@ -1,4 +1,4 @@
-# Elízabeth Alzate Jr. Software developer
+# Elízabeth Alzate Software developer
 ### Hi  👋
 
 My first approach with coding was with VB.NET WinForms when I was in 8th grade 😂😅 And it's been a long way since then. 
