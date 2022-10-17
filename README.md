@@ -2,7 +2,7 @@
 ### Hi  👋
 
 I'm currently a software developer and QA, I'm also a Computers Engineering student at Nacional University of Colombia :)
-Most of the experience I have is with .NET and relational databases such as SQL server, MySQL, etc. I've worked with other tools and languages like JavaScript, React, PHP and even Java.
+Most of the experience I have is with .NET and relational databases such as SQL server, MySQL, etc. I've worked with other tools and languages like JavaScript, React, PHP and even Java. <br/>
 Though I do enjoy learning, I love spending my free time doing sports like Cheerleading (Yay! teamwork!) or just relaxing playing games, reading books, listening to music or playing with my cats.
 
 
