@@ -1,4 +1,5 @@
-# Elízabeth Alzate Software developer
+# Elízabeth Alzate 
+## Software developer
 ### Hi  👋
  
 I'm currently a software developer and QA, I'm also a Computers Engineering student at Nacional University of Colombia :) <br/>
