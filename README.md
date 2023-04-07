@@ -2,6 +2,7 @@
 ### Hi  👋
  
 I'm currently a software developer and QA, I'm also a Computers Engineering student at Nacional University of Colombia :) <br/>
+At the moment, I'm working with the latests versions of .NET, migrating to newer versions and working with hex architecture. <br/>
 Most of the experience I have is with .NET and relational databases such as SQL server, MySQL, etc. I've worked with other tools and languages like JavaScript, React, PHP and even Java. <br/>
 Though I do enjoy learning and coding, I love spending my free time doing sports like Cheerleading (Yay! teamwork!) or just relaxing playing games, reading books, listening to music or playing with my cats.
 
@@ -14,6 +15,7 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 * .NET core (5 & 6)
 * QA concepts
 * UI & API testing
+* Hexagonal architecture
 
 ## 📫 How to reach me:
 https://www.linkedin.com/in/ealzate/  <br/>
