@@ -13,10 +13,11 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 * Relational databases (SQL Server, MySQL, Access...)
 
 ## 🌱 I’m currently learning:
-* .NET core (5 & 6)
+* .NET core (7)
 * QA concepts
 * UI & API testing
 * Hexagonal architecture
+* Design patterns
 
 ## 📫 How to reach me:
 https://www.linkedin.com/in/ealzate/  <br/>
