@@ -14,8 +14,7 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 
 ## 🌱 I’m currently learning:
 * .NET core (7)
-* QA concepts
-* UI & API testing
+* Azure AZ-900 and AZ-204
 * Hexagonal architecture
 * Design patterns
 
@@ -23,7 +22,7 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 https://www.linkedin.com/in/ealzate/  <br/>
 https://twitter.com/ealzatez <br/>
 
-## 🗣️ Kinda fluent in 2 languages: 
+## 🗣️ I can communicate with these languages: 
 * Spanish 
 * English
  
