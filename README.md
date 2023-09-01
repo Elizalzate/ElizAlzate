@@ -2,9 +2,9 @@
 ## Software developer
 ### Hi  👋
  
-I'm currently a software developer and QA, I'm also a Computers Engineering student at Nacional University of Colombia :) <br/>
-At the moment, I'm working with the latests versions of .NET, migrating to newer versions and working with hex architecture. <br/>
-Most of the experience I have is with .NET and relational databases such as SQL server, MySQL, etc. I've worked with other tools and languages like JavaScript, React, PHP and even Java. <br/>
+I'm currently a software developer with 4 years of experience on the field, I'm also a Computers Engineering student at Nacional University of Colombia :) <br/>
+At the moment, I'm working with the latests versions of .NET, migrating to newer versions of the framework and working with hex architecture. <br/>
+Most of the experience I have is with .NET and relational databases such as SQL server, MySQL, etc. I've worked with other tools and languages like JavaScript, React, Angular, PHP and  Java. <br/>
 Though I do enjoy learning and coding, I love spending my free time doing sports like Cheerleading (Yay! teamwork!) or just relaxing playing games, reading books, listening to music or playing with my cats.
 
 
@@ -14,7 +14,7 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 
 ## 🌱 I’m currently learning:
 * .NET core (7)
-* Azure AZ-900 and AZ-204
+* Studying for Azure AZ-900 and AZ-204
 * Hexagonal architecture
 * Design patterns
 
@@ -29,7 +29,7 @@ https://twitter.com/ealzatez <br/>
 ## ⚡ Fun facts:
 * My first experiences were working in projects involving health care, like medical records and prescriptions. 
 * Before going into this career path I wanted to be a doctor or a pilot. 
-* I love cats, if I had a bigger house I would adopt more.
+* I love cats, if I had a bigger house I would adopt more. I'm at full capacity right now but usually I rescue them and care for them until find foster/forever homes.
 
 <!--
 **Elizalzate/ElizAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
