@@ -10,11 +10,13 @@ Though I do enjoy learning and coding, I love spending my free time doing sports
 
 ## 🌳 I already have some experience working with:
 * .NET Framework (WinForms, ASP.NET...)
-* .NET (5, 6, 7)
+* .NET 5 - 8
+* Optimizely
 * Relational databases (SQL Server, MySQL, Access...)
 
 ## 🌱 I’m currently learning:
-* .NET core (7)
+* .NET core (8)
+* Umbraco and Optimizely
 * Studying for Azure AZ-900 and AZ-204
 * Hexagonal architecture
 * Design patterns
@@ -28,7 +30,8 @@ https://twitter.com/ealzatez <br/>
 * English
  
 ## ⚡ Fun facts:
-* My first experiences were working in projects involving health care, like medical records and prescriptions. 
+* My first experiences were working in projects involving health care, like medical records and prescriptions.
+* I started diving into the coding world when I was 12 years old.
 * Before going into this career path I wanted to be a doctor or a pilot. 
 * I love cats, if I had a bigger house I would adopt more. I'm at full capacity right now but usually I rescue them and care for them until find foster/forever homes.
 
